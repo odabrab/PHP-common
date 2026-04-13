@@ -1,0 +1,29 @@
+######################################################################
+########  .gitignore
+########
+########  In order to store the ignored files list outside of the Git
+########  tree, one should use the ".git/info/exclude" file.
+######################################################################
+
+#  A file listing other projects this one relates to.
+/.relations.txt
+
+#  Binary files directory.
+/bin
+
+#  Eclipse project files (if this project is developed in such IDE).
+/.checkstyle
+/.classpath
+/.project
+/.settings
+
+#  File names ended with a ~ character.
+*\~
+
+#  Local GUI file(s).
+*.directory
+
+#  Other diretories to ignore.
+/Git-ignore
+/ignore
+/.ignore
