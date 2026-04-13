@@ -77,7 +77,8 @@
 > You're reading the readme for PHP-common, a didactic PHP library for
 > basic server-side tasks.
 > 
-> <img src='./lib/logo-PHP.svgz' align='left'>
+> <img src='./lib/logo-PHP.svg' align='right'>
+> 
 
 <!--
   --------------------------------------------------------------------
